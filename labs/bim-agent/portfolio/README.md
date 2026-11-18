@@ -12,7 +12,7 @@ Navisworks 플랜트 모델을 진단하고, 부재끼리의 연결 관계로 �
 
 1분 42초, 소리 없음. 개발 동기 → 구성요소와 데이터 흐름 → 과거 방식과 자동화 → 문제 해결(AABB → OBB) → 승인과 4D → 기술개발 결과
 
-https://github.com/user-attachments/assets/efe34ff0-87c7-4704-975c-af9a8578e9c9
+https://github.com/user-attachments/assets/b2302b91-1b8d-48f7-9280-55903375efb8
 
 ## 스냅샷
 
